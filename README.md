@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Water Level Forecasting App (Mauritius)
 
-This app analyzes historical potable water production and forecasts future water levels using ML models (2025–2026).
+This app analyzes historical potable water production and forecasts future water levels using ML models 
 
 ## Run Locally
 ```bash
